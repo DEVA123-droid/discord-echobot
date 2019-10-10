@@ -1,13 +1,13 @@
 {
-  "token": "mfa.yourtoken-shouldgoherejklsdfhsoiehfseihfseifbisoehfoisefise",
+  "token": "NjA2NDQ1Mzc1NDk0MDI5MzEy.XZoClw.SbaVNX-9ftkhMIDaWTIVmX4IR2o",
   "redirects": [
     {
       "sources": [
-        "283746523864294373",
-        "293786491642983642"
+        "610780476478717962"
+        
       ],
       "destinations": [
-        "129863219696239848"
+        "631024762080067584"
       ],
       "options": {
         "title": "New Copied Message",
